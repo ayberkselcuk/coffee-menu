@@ -1,7 +1,6 @@
 import React from "react";
 import Image from "next/image";
 
-
 interface MenuCardsProps {
     title: string;
     ingredients: string[];
